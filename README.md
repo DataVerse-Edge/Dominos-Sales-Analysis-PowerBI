@@ -1,4 +1,4 @@
-# DataVerse-Edge-Dominos-Sales-Analysis-PowerBI
+# Dominos-Sales-Analysis-PowerBI
 This project is an end-to-end Power BI dashboard built on a Domino’s pizza sales dataset.
 The report answers key business questions about revenue, customer behavior, product performance, and time-based trends using interactive visuals and DAX measures.
 
