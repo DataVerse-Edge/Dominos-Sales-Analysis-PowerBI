@@ -18,12 +18,21 @@ Business Questions Addressed
 The dashboard is designed to answer the following questions:
 ​
 What is the total revenue generated from all pizza orders?
+
 What are the monthly sales trends for Domino’s pizzas?
+
 What is the distribution of orders across different hours of the day?
+
 Which days of the week have the highest and lowest sales?
+
 What is the average order value per customer (per order)?
+
 What is the peak order time during the day?
+
 Which pizza category (Classic, Veggie, Supreme, Chicken, etc.) generates the most revenue?
+
 What are the top 5 best-selling pizzas based on quantity sold?
+
 Are there any seasonal trends in pizza sales (e.g., higher sales on weekends or in certain months)?
+
 Which size of pizza (S, M, L, XL) is ordered the most?
